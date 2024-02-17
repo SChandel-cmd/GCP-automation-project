@@ -4,7 +4,7 @@ In the world of data engineering, the journey from data retrieval to insightful 
 
 ### Architecture
 
-![Architecture](https://github.com/vishal-bulbule/cricket-stat-data-engineering-project/blob/master/Architecture.png)
+![Architecture](https://github.com/SChandel-cmd/GCP-automation-project/blob/main/Architecture.png)
 
 ### Data Retrieval with Python and Cricbuzz API
 The foundation of our project begins with Python’s prowess in interfacing with APIs. We’ll delve into the methods of fetching cricket statistics from the Cricbuzz API, harnessing the power of Python to gather the required data efficiently.
@@ -23,4 +23,4 @@ The core of our pipeline lies in the Dataflow job. Triggered by the Cloud Functi
 
 ### Looker Dashboard Creation
 Finally, we’ll explore the potential of BigQuery as a data source for Looker Studio. Configuring Looker to connect with BigQuery, we’ll create a visually compelling dashboard. This dashboard will serve as the visualization hub, enabling insightful analysis based on the data loaded from our cricket statistics pipeline.
-![Looker](https://github.com/vishal-bulbule/cricket-stat-data-engineering-project/blob/master/Looker.png)
+![Looker](https://github.com/SChandel-cmd/GCP-automation-project/blob/main/Looker.png)
